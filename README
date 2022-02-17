@@ -1,0 +1,6 @@
+Simple sound localisation project
+
+Project using 2 Sound Sensor Module KY-038
+
+Sensor needs to be carefully calibrated in order to detect loud noises. Adjust resistor until light just turns off. 
+
